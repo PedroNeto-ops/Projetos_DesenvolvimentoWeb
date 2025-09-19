@@ -17,10 +17,10 @@ Este repositório busca reunir e documentar os propostos em sala de aula, promov
 
 | **Projeto** | **Descrição do Projeto** | **Principais Tags Utilizadas** | **Acesso ao Exercício** |
 |:-------------:|:-------------------|:-------------------|:------------------------------------|
-| 01            | Página de Apresentação Pessoal | `header`, `section`, `nav`, `footer` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_01_web/) |
-| 02            | Portfólio de Imagens | `figure`, `figcaption`, `img` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_02_web/) |
-| 03            | Página de Receitas | `aside`, `ul`, `nav` (links âncora) | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_03_web/) |
-| 04            | Site Pessoal (Múltiplas Páginas) | `a` (links entre páginas), `nav` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_04_web/) |
-| 05            | Tabela de Notas | `table`, `thead`, `tbody`, `tfoot` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_05_web/) |
-| 06            | Roteiro de Viagem | `section`, `article` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_06_web/) |
-| 07            | Cadastro de Usuário | `form`, `input`, `label`, `select`, `textarea` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_07_web/) |
+| 01            | Página de Apresentação Pessoal | `header`, `section`, `nav`, `footer` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_01_WEB/) |
+| 02            | Portfólio de Imagens | `figure`, `figcaption`, `img` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_02_WEB/) |
+| 03            | Página de Receitas | `aside`, `ul`, `nav` (links âncora) | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_03_WEB/) |
+| 04            | Site Pessoal (Múltiplas Páginas) | `a` (links entre páginas), `nav` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_04_WEB/) |
+| 05            | Tabela de Notas | `table`, `thead`, `tbody`, `tfoot` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_05_WEB/) |
+| 06            | Roteiro de Viagem | `section`, `article` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_06_WEB/) |
+| 07            | Cadastro de Usuário | `form`, `input`, `label`, `select`, `textarea` | [Acessar Projeto ](https://pedroneto-ops.github.io/PROJETO_07_WEB/) |
